@@ -1,0 +1,1 @@
+https://www.websparrow.org/struts/struts2-create-read-update-and-delete-crud-example-using-jdbc
